@@ -1,6 +1,6 @@
-# vagrant-boxes
+# virtualization
 
-Collection of vagrant boxes.
+Collection of scripts for managing various kinds of virtual machines.
 
 # Bash Profile
 
@@ -9,5 +9,5 @@ Add the following lines to your `~/.bash_profile` file to load aliases for the f
 ## Defaults
 
 ```bash
-source <working-folder>/vagrant-boxes/vagrant.sh
+source <working-folder>/virtualization/virtualization.sh
 ```
